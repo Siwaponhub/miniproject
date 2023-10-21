@@ -13,6 +13,7 @@
                                 <li><a href="#">contact us</a></li>
                                 <li><a href="#">news</a></li>
                                 <li><a href="#">store</a></li>
+                                <li><a href="#">store</a></li>
                             </ul>
                         </div>
                     </div>
